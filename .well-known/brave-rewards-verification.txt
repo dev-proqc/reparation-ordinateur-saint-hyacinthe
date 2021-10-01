@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: dev-pro.xyz
+Token: 3c732ca5688179d6614e5426409924be59d7bbc6978ffcf1008a142aed7a27ac

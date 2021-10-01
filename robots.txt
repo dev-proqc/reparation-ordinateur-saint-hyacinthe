@@ -1,0 +1,3 @@
+User-agent:*
+Disallow:
+Sitemap:https://dev-pro.xyz/sitemap.xml
